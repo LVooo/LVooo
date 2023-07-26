@@ -1,4 +1,5 @@
 # Hi there 👋
+I'm a game developer.
 
 <picture>
   <source media="(prefers-color-shceme: dark)" srcset="https://raw.githubusercontent.com/LVooo/LVooo/output/github-contribution-grid-snake-dark.svg" />
