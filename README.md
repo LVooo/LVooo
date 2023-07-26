@@ -1,10 +1,13 @@
+# Hi there 👋
+I'm a game developer.
+
 <picture>
   <source media="(prefers-color-shceme: dark)" srcset="https://raw.githubusercontent.com/LVooo/LVooo/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-shceme: light)" srcset="https://raw.githubusercontent.com/LVooo/LVooo/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LVooo/LVooo/output/github-contribution-grid-snake.svg">
-<picture/>
+</picture>
 
-![Visitor Count](https://profile-counter.glitch.me/LVooo/count.svg)
+<hr>
 
 ![LVooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVooo&show_icons=true&theme=tokyonight)
 
@@ -16,7 +19,7 @@
 ![Riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
 
 
-### Hi there 👋
+### 
 
 <!--
 **LVooo/LVooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
