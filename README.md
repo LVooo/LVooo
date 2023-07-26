@@ -11,7 +11,7 @@ I'm a game developer.
 
 ![LVooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVooo&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVooo&layout=compact)](https://github.com/LVooo/github-readme-stats)
+![Most used language](https://readme-stats.clckblog.space/api/top-langs?username=LVooo&show_icons=true&theme=radical&langs_count=10&layout=compact)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
