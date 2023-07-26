@@ -4,6 +4,18 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/LVooo/LVooo/output/github-contribution-grid-snake.svg">
 <picture/>
 
+![Visitor Count](https://profile-counter.glitch.me/LVooo/count.svg)
+
+![LVooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVooo&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVooo&layout=compact)](https://github.com/LVooo/github-readme-stats)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)
+
+
 ### Hi there 👋
 
 <!--
